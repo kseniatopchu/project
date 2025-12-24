@@ -6,6 +6,7 @@
 #define n 5
 void main()
 {
+	setlocale(LC_ALL, "rus");
 	int a[n], i;
 	float s = 0;
 	srand(time(NULL));
