@@ -15,5 +15,5 @@ void main()
 		s += a[i];
 		printf("%i \t", a[i]);
 	}
-	printf("\n%.2f", s / n);
+	printf("\nсреднее арифметическое: %.2f", s / n);
 }
